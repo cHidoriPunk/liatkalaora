@@ -1,17 +1,15 @@
 {
   "files": {
-    "main.css": "/liatkalaora/static/css/main.da67f80f.css",
-    "main.js": "/liatkalaora/static/js/main.5e8549ce.js",
-    "static/js/787.468c0c2a.chunk.js": "/liatkalaora/static/js/787.468c0c2a.chunk.js",
-    "static/media/liat-image.webp": "/liatkalaora/static/media/liat-image.96846c71230abdb93dd0.webp",
-    "static/media/liat-image.jpg": "/liatkalaora/static/media/liat-image.896e78ff4ccfe95a99c9.jpg",
-    "index.html": "/liatkalaora/index.html",
-    "main.da67f80f.css.map": "/liatkalaora/static/css/main.da67f80f.css.map",
-    "main.5e8549ce.js.map": "/liatkalaora/static/js/main.5e8549ce.js.map",
-    "787.468c0c2a.chunk.js.map": "/liatkalaora/static/js/787.468c0c2a.chunk.js.map"
+    "main.css": "/static/css/main.d33cb11a.css",
+    "main.js": "/static/js/main.de3b9b98.js",
+    "static/js/787.0602ae97.chunk.js": "/static/js/787.0602ae97.chunk.js",
+    "index.html": "/index.html",
+    "main.d33cb11a.css.map": "/static/css/main.d33cb11a.css.map",
+    "main.de3b9b98.js.map": "/static/js/main.de3b9b98.js.map",
+    "787.0602ae97.chunk.js.map": "/static/js/787.0602ae97.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.da67f80f.css",
-    "static/js/main.5e8549ce.js"
+    "static/css/main.d33cb11a.css",
+    "static/js/main.de3b9b98.js"
   ]
 }
